@@ -20,7 +20,7 @@ Please submit all security-related bugs through Bugzilla using the [web security
 
 [addons.mozilla.org]: https://addons.mozilla.org
 [bug bounty onramp page]: https://wiki.mozilla.org/Security/BugBountyOnramp/
-[bug bounty program]: https://www.mozilla.org/en-US/security/web-bug-bounty/
+[bug bounty program]: https://www.mozilla.org/en-US/security/web-bug-bounty/tt
 [faq pages]: https://www.mozilla.org/en-US/security/bug-bounty/faq-webapp/
 [setup_link]: https://mozilla.github.io/addons-server/topics/development/setup_and_configuration.html
 [matrix #amo:mozilla.org]: https://chat.mozilla.org/#/room/#amo:mozilla.org
