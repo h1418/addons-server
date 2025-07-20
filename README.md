@@ -7,10 +7,10 @@
 Welcome to the Addons Server repository!  Please feel free to visit the web page of the current project hosted on [addons.mozilla.org]. If you want to develop or run the applciation locally, please follow the [setup and configuration][setup_link] docs.  We'd love your help!  You can come talk to us on [Matrix #amo:mozilla.org] if you have any questions.
 
 Please report bugs here: <https://github.com/mozilla/addons/issues>
-
+t
 You can access the AMO dev environment at <https://addons-dev.allizom.org/> and the AMO stage environment at <https://addons.allizom.org/>
 
-% marker-for-security-bug-inclusion-do-not-remove
+% marker-for-security-bug-inclusion-do-not-removett
 
 # Security Bug Reports
 
